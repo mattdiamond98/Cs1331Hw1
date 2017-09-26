@@ -1,0 +1,9 @@
+Event: Bled-Zagreb-Belgrade Candidates
+Site: Bled, Zagreb & Belgrade YUG
+Date: 1959.10.11
+Round: 20
+White: Tal, Mikhail
+Black: Fischer, Robert James
+Result: 1-0
+Final Position:
+1rb1k2r/2p1n3/p4n2/1p1PNB1p/1p3Q1P/8/Pq4P1/R3K2R/

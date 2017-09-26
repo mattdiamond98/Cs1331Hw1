@@ -1,0 +1,9 @@
+Event: Fool's Mate
+Site: NOT GIVEN
+Date: NOT GIVEN
+Round: NOT GIVEN
+White: NOT GIVEN
+Black: NOT GIVEN
+Result: NOT GIVEN
+Final Position:
+rnb1kbnr/pppp1ppp/4p3/8/6Pq/5P2/PPPPP2P/RNBQKBNR/
